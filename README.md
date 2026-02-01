@@ -15,7 +15,7 @@
 [![](https://skillicons.dev/icons?i=js,ts,python,php,solidity,cpp,c,java)](https://skillicons.dev)
 
 ### Web & Frameworks
-[![](https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,redux,nodejs,express,django,bootstrap,sass,jquery,swift,kotlin,firebase)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,laravel,react,nextjs,vue,angular,redux,nodejs,express,django,bootstrap,sass,jquery,swift,kotlin,firebase)](https://skillicons.dev)
 
 ### Databases & Cloud
 [![](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,aws,azure,gcp,docker,kubernetes,vercel)](https://skillicons.dev)
