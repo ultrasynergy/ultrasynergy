@@ -5,7 +5,7 @@
     style="vertical-align: middle; margin-left: 10px;"
   >, I'm Xander</h1>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=30&pause=1000&color=F0DC82&random=false&width=1100&center=true&lines=Hi%2C+I+am+a+Senior+Full+Stack+%26+Blockchain+Developer+!;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=30&pause=1000&color=F0DC82&random=false&width=1100&center=true&lines=Hi%2C+I+am+a+Senior+Full+Stack+Developer+!;)](https://git.io/typing-svg)
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <h1><a id="technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills</h1>
